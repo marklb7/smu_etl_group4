@@ -1,0 +1,799 @@
+,first_name,last_name,position,team,GP,G,A,PTS,PIM
+0,Leon,Draisaitl, C ,EDM,71,43,67,110,18
+1,Connor,McDavid, C ,EDM,64,34,63,97,28
+2,David,Pastrnak, RW,BOS,70,48,47,95,40
+3,Artemi,Panarin, LW,NYR,69,32,63,95,20
+4,Nathan,MacKinnon, C ,COL,69,35,58,93,12
+5,Brad,Marchand, LW,BOS,70,28,59,87,82
+6,Nikita,Kucherov, RW,TB,68,33,52,85,38
+7,Patrick,Kane, RW,CHI,70,33,51,84,40
+8,Auston,Matthews, C ,TOR,70,47,33,80,8
+9,Jack,Eichel, C ,BUF,68,36,42,78,34
+10,Jonathan,Huberdeau, C ,FLA,69,23,55,78,30
+11,Mika,Zibanejad, C ,NYR,57,41,34,75,14
+12,John,Carlson, D ,WSH,69,15,60,75,26
+13,Evgeni,Malkin, C ,PIT,55,25,49,74,58
+14,Kyle,Connor, LW,WPG,71,38,35,73,34
+15,Mark,Scheifele, C ,WPG,71,29,44,73,45
+16,J.T.,Miller, C ,VAN,69,27,45,72,47
+17,Alex,Ovechkin, LW,WSH,68,48,19,67,30
+18,Mitch,Marner, C ,TOR,59,16,51,67,16
+19,Sebastian,Aho, LW,CAR,68,38,28,66,26
+20,Max,Pacioretty, LW,VGS,71,32,34,66,44
+21,Steven,Stamkos, C ,TB,57,29,37,66,22
+22,Elias,Pettersson, C ,VAN,68,27,39,66,18
+23,Blake,Wheeler, RW,WPG,71,22,43,65,37
+24,Roman,Josi, D ,NSH,69,16,49,65,41
+25,Brayden,Point, C ,TB,66,25,39,64,11
+26,Patrik,Laine, RW,WPG,68,28,35,63,22
+27,Mark,Stone, RW,VGS,65,21,42,63,27
+28,Teuvo,Teravainen, LW,CAR,68,15,48,63,8
+29,Anze,Kopitar, C ,LA,70,21,41,62,16
+30,Aleksander,Barkov, C ,FLA,66,20,42,62,18
+31,Travis,Konecny, C ,PHI,66,24,37,61,28
+32,Andrei,Svechnikov, RW,CAR,68,24,37,61,54
+33,Matthew,Tkachuk, LW,CGY,69,23,38,61,74
+34,Tomas,Tatar, LW,MTL,68,22,39,61,36
+35,Ryan,Nugent-Hopkins, C ,EDM,65,22,39,61,33
+36,Ryan,O'Reilly, C ,STL,71,12,49,61,10
+37,John,Tavares, C ,TOR,63,26,34,60,24
+38,David,Perron, LW,STL,71,25,35,60,52
+39,Mathew,Barzal, C ,NYI,68,19,41,60,44
+40,Jonathan,Toews, C ,CHI,70,18,42,60,48
+41,William,Nylander, RW,TOR,68,31,28,59,12
+42,Mike,Hoffman, LW,FLA,69,29,30,59,28
+43,Sean,Couturier, C ,PHI,69,22,37,59,30
+44,Ryan,Strome, C ,NYR,70,18,41,59,48
+45,Brayden,Schenn, C ,STL,71,25,33,58,44
+46,Nikolaj,Ehlers, LW,WPG,71,25,33,58,30
+47,Johnny,Gaudreau, LW,CGY,70,18,40,58,12
+48,Jaden,Schwartz, LW,STL,71,22,35,57,18
+49,Patrice,Bergeron, C ,BOS,61,31,25,56,28
+50,Bryan,Rust, RW,PIT,55,27,29,56,30
+51,Jakub,Voracek, RW,PHI,69,12,44,56,31
+52,Victor,Hedman, D ,TB,66,11,44,55,31
+53,Elias,Lindholm, C ,CGY,70,29,25,54,22
+54,Reilly,Smith, RW,VGS,71,27,27,54,20
+55,Brock,Nelson, C ,NYI,68,26,28,54,32
+56,Kevin,Fiala, LW,MIN,64,23,31,54,42
+57,Nicklas,Backstrom, C ,WSH,61,12,42,54,14
+58,Bo,Horvat, C ,VAN,69,22,31,53,21
+59,Claude,Giroux, LW,PHI,69,21,32,53,28
+60,Dylan,Larkin, C ,DET,71,19,34,53,39
+61,Tony,DeAngelo, D ,NYR,68,15,38,53,47
+62,Quinn,Hughes, D ,VAN,68,8,45,53,22
+63,Jakub,Vrana, C ,WSH,69,25,27,52,18
+64,Evgeny,Kuznetsov, C ,WSH,63,19,33,52,40
+65,Alex,Pietrangelo, D ,STL,70,16,36,52,20
+66,Taylor,Hall, LW,NJ/ARI,65,16,36,52,34
+67,Sam,Reinhart, C ,BUF,69,22,28,50,20
+68,Tyler,Seguin, C ,DAL,69,17,33,50,22
+69,Cale,Makar, D ,COL,57,12,38,50,12
+70,Alex,Killorn, C ,TB,68,26,23,49,20
+71,T.J.,Oshie, RW,WSH,69,26,23,49,26
+72,Timo,Meier, RW,SJ,70,22,27,49,42
+73,Pierre-Luc,Dubois, C ,CBJ,70,18,31,49,49
+74,Torey,Krug, D ,BOS,61,9,40,49,33
+75,Sean,Monahan, C ,CGY,70,22,26,48,25
+76,Filip,Forsberg, C ,NSH,63,21,27,48,29
+77,Tyler,Bertuzzi, LW,DET,71,21,27,48,40
+78,Ryan,Suter, D ,MIN,69,8,40,48,12
+79,Evander,Kane, LW,SJ,64,26,21,47,122
+80,Evgenii,Dadonov, RW,FLA,69,25,22,47,10
+81,Jonathan,Marchessault, C ,VGS,66,22,25,47,28
+82,Eric,Staal, C ,MIN,66,19,28,47,28
+83,Sidney,Crosby, C ,PIT,41,16,31,47,15
+84,Phillip,Danault, C ,MTL,71,13,34,47,32
+85,Dominik,Kubalik, LW,CHI,68,30,16,46,16
+86,Zach,Parise, LW,MIN,69,25,21,46,8
+87,Pavel,Buchnevich, LW,NYR,68,16,30,46,24
+88,William,Karlsson, C ,VGS,63,15,31,46,16
+89,Shea,Theodore, D ,VGS,71,13,33,46,25
+90,Kyle,Palmieri, RW,NJ,65,25,20,45,41
+91,Chris,Kreider, LW,NYR,63,24,21,45,58
+92,Tanner,Pearson, LW,VAN,69,21,24,45,27
+93,Andre,Burakovsky, LW,COL,58,20,25,45,22
+94,Alex,DeBrincat, RW,CHI,70,18,27,45,15
+95,Mikael,Backlund, C ,CGY,70,16,29,45,26
+96,Brock,Boeser, RW,VAN,57,16,29,45,14
+97,Brent,Burns, D ,SJ,70,12,33,45,34
+98,Nick,Schmaltz, C ,ARI,70,11,34,45,20
+99,Neal,Pionk, D ,WPG,71,6,39,45,32
+100,Keith,Yandle, D ,FLA,69,5,40,45,20
+101,Tyler,Toffoli, RW,LA/VAN,68,24,20,44,20
+102,Brady,Tkachuk, LW,OTT,71,21,23,44,106
+103,Gabriel,Landeskog, LW,COL,54,21,23,44,47
+104,Tom,Wilson, RW,WSH,68,21,23,44,93
+105,Clayton,Keller, C ,ARI,70,17,27,44,28
+106,Max,Domi, C ,MTL,71,17,27,44,35
+107,Anthony,Cirelli, C ,TB,68,16,28,44,30
+108,Kris,Letang, D ,PIT,61,15,29,44,38
+109,Nikita,Gusev, LW,NJ,66,13,31,44,12
+110,Adam,Henrique, C ,ANA,71,26,17,43,22
+111,Brendan,Gallagher, RW,MTL,59,22,21,43,29
+112,Anders,Lee, LW,NYI,68,20,23,43,47
+113,Jake,Guentzel, C ,PIT,39,20,23,43,14
+114,Alex,Iafallo, C ,LA,70,17,26,43,14
+115,Connor,Brown, RW,OTT,71,16,27,43,24
+116,Josh,Bailey, LW,NYI,68,14,29,43,10
+117,David,Krejci, C ,BOS,61,13,30,43,23
+118,Jean-Gabriel,Pageau, C ,NYI/OTT,67,26,16,42,49
+119,Victor,Olofsson, RW,BUF,54,20,22,42,6
+120,Gustav,Nyquist, C ,CBJ,70,15,27,42,16
+121,Rickard,Rakell, C ,ANA,65,15,27,42,12
+122,Ryan,Getzlaf, C ,ANA,69,13,29,42,58
+123,Matt,Duchene, C ,NSH,66,13,29,42,24
+124,Robert,Thomas, C ,STL,66,10,32,42,18
+125,Adam,Fox, D ,NYR,70,8,34,42,32
+126,Kevin,Hayes, C ,PHI,69,23,18,41,34
+127,Zach,Werenski, D ,CBJ,63,20,21,41,10
+128,Jason,Zucker, LW,PIT/MIN,60,20,21,41,21
+129,Mikko,Rantanen, RW,COL,42,19,22,41,14
+130,Ondrej,Palat, LW,TB,69,17,24,41,22
+131,Nick,Suzuki, C ,MTL,71,13,28,41,6
+132,Aaron,Ekblad, D ,FLA,67,5,36,41,26
+133,Anthony,Duclair, LW,OTT,66,23,17,40,18
+134,James,van Riemsdyk, LW,PHI,66,19,21,40,8
+135,Jordan,Eberle, RW,NYI,58,16,24,40,12
+136,Dougie,Hamilton, D ,CAR,47,14,26,40,32
+137,Jeff,Petry, D ,MTL,71,11,29,40,26
+138,Erik,Karlsson, D ,SJ,56,6,34,40,16
+139,Rasmus,Dahlin, D ,BUF,59,4,36,40,38
+140,Conor,Garland, RW,ARI,68,22,17,39,20
+141,Jakob,Silfverberg, LW,ANA,66,21,18,39,14
+142,Jamie,Benn, LW,DAL,69,19,20,39,53
+143,Anthony,Beauvillier, LW,NYI,68,18,21,39,15
+144,Logan,Couture, C ,SJ,52,16,23,39,18
+145,Lars,Eller, C ,WSH,69,16,23,39,48
+146,Thomas,Chabot, D ,OTT,71,6,33,39,42
+147,Tyson,Barrie, D ,TOR,70,5,34,39,16
+148,Christian,Dvorak, C ,ARI,70,18,20,38,12
+149,Paul,Stastny, C ,VGS,71,17,21,38,24
+150,Anthony,Mantha, RW,DET,43,16,22,38,34
+151,Phil,Kessel, RW,ARI,70,14,24,38,22
+152,Dylan,Strome, C ,CHI,58,12,26,38,16
+153,Vincent,Trocheck, C ,CAR/FLA,62,11,27,38,49
+154,Ryan,Ellis, D ,NSH,49,8,30,38,19
+155,Zach,Hyman, C ,TOR,51,21,16,37,23
+156,Tyler,Ennis, LW,EDM/OTT,70,16,21,37,20
+157,Charlie,Coyle, C ,BOS,70,16,21,37,21
+158,Mats,Zuccarello, RW,MIN,65,15,22,37,18
+159,Chris,Tierney, C ,OTT,71,11,26,37,20
+160,Oliver,Bjorkstrand, RW,CBJ,49,21,15,36,12
+161,Nazem,Kadri, C ,COL,51,19,17,36,97
+162,Jake,Virtanen, RW,VAN,69,18,18,36,41
+163,Tomas,Hertl, C ,SJ,48,16,20,36,16
+164,Martin,Necas, C ,CAR,64,16,20,36,20
+165,Shea,Weber, D ,MTL,65,15,21,36,33
+166,Ryan,Johansen, C ,NSH,68,14,22,36,45
+167,Nico,Hischier, C ,NJ,58,14,22,36,12
+168,Kasperi,Kapanen, RW,TOR,69,13,23,36,22
+169,Ivan,Provorov, D ,PHI,69,13,23,36,24
+170,Jaccob,Slavin, D ,CAR,68,6,30,36,10
+171,Jake,DeBrusk, LW,BOS,65,19,16,35,14
+172,Nick,Bonino, C ,NSH,67,18,17,35,16
+173,Dustin,Brown, RW,LA,66,17,18,35,22
+174,Carl,Soderberg, C ,ARI,70,17,18,35,18
+175,Jared,McCann, C ,PIT,66,14,21,35,17
+176,Ryan,Pulock, D ,NYI,68,10,25,35,14
+177,Miro,Heiskanen, D ,DAL,68,8,27,35,12
+178,Drew,Doughty, D ,LA,67,7,28,35,36
+179,Frank,Vatrano, C ,FLA,69,16,18,34,30
+180,Alexander,Radulov, RW,DAL,60,15,19,34,46
+181,Zack,Kassian, RW,EDM,59,15,19,34,69
+182,Calle,Jarnkrok, C ,NSH,64,15,19,34,14
+183,Mikhail,Sergachev, D ,TB,70,10,24,34,58
+184,Kevin,Shattenkirk, D ,TB,70,8,26,34,38
+185,Oscar,Klefbom, D ,EDM,62,5,29,34,24
+186,Samuel,Girard, D ,COL,70,4,30,34,17
+187,Brandon,Saad, LW,CHI,58,21,12,33,16
+188,Roope,Hintz, LW,DAL,60,19,14,33,16
+189,Brett,Connolly, RW,FLA,69,19,14,33,26
+190,Joonas,Donskoi, RW,COL,65,16,17,33,26
+191,Kevin,Labanc, RW,SJ,70,14,19,33,38
+192,Adam,Gaudette, C ,VAN,59,12,21,33,37
+193,Matt,Niskanen, D ,PHI,68,8,25,33,29
+194,Mattias,Ekholm, D ,NSH,68,8,25,33,32
+195,Rasmus,Ristolainen, D ,BUF,69,6,27,33,46
+196,Alexander,Edler, D ,VAN,59,5,28,33,62
+197,Darnell,Nurse, D ,EDM,71,5,28,33,48
+198,Blake,Coleman, C ,NJ/TB,66,21,11,32,56
+199,Patric,Hornqvist, RW,PIT,52,17,15,32,36
+200,Andrew,Mangiapane, LW,CGY,68,17,15,32,18
+201,Jesper,Bratt, LW,NJ,60,16,16,32,6
+202,Robby,Fabbri, C ,DET/STL,61,15,17,32,20
+203,Jared,Spurgeon, D ,MIN,62,12,20,32,18
+204,Adrian,Kempe, RW,LA,69,11,21,32,29
+205,Derick,Brassard, C ,NYI,66,10,22,32,16
+206,Pavel,Zacha, C ,NJ,65,8,24,32,14
+207,John,Klingberg, D ,DAL,58,6,26,32,22
+208,Charlie,McAvoy, D ,BOS,67,5,27,32,41
+209,Alex,Goligoski, D ,ARI,70,4,28,32,24
+210,James,Neal, LW,EDM,55,19,12,31,12
+211,Craig,Smith, C ,NSH,69,18,13,31,34
+212,Vladislav,Namestnikov, C ,NYR/OTT/COL,65,17,14,31,45
+213,Luke,Kunin, C ,MIN,63,15,16,31,55
+214,Joe,Pavelski, C ,DAL,67,14,17,31,29
+215,Tyler,Johnson, C ,TB,65,14,17,31,16
+216,Dominik,Kahun, C ,BUF/PIT,56,12,19,31,8
+217,J.T.,Compher, LW,COL,67,11,20,31,18
+218,Nick,Foligno, LW,CBJ,67,10,21,31,62
+219,Rocco,Grimaldi, C ,NSH,66,10,21,31,10
+220,Filip,Hronek, D ,DET,65,9,22,31,46
+221,Kyle,Turris, C ,NSH,62,9,22,31,22
+222,Damon,Severson, D ,NJ,69,8,23,31,52
+223,Joe,Thornton, C ,SJ,70,7,24,31,34
+224,Nate,Schmidt, D ,VGS,59,7,24,31,12
+225,Mark,Giordano, D ,CGY,60,5,26,31,34
+226,Josh,Morrissey, D ,WPG,65,5,26,31,24
+227,Mikael,Granlund, C ,NSH,63,17,13,30,28
+228,Joel,Armia, RW,MTL,58,16,14,30,28
+229,Zach,Sanford, LW,STL,58,16,14,30,28
+230,Warren,Foegele, LW,CAR,68,13,17,30,34
+231,Yanni,Gourde, LW,TB,70,10,20,30,49
+232,Oliver,Ekman-Larsson, D ,ARI,66,9,21,30,38
+233,Marcus,Johansson, C ,BUF,60,9,21,30,20
+234,Seth,Jones, D ,CBJ,56,6,24,30,20
+235,Denis,Gurianov, RW,DAL,64,20,9,29,13
+236,Tyler,Bozak, C ,STL,67,13,16,29,10
+237,Jesper,Fast, RW,NYR,69,12,17,29,20
+238,Jack,Roslovic, C ,WPG,71,12,17,29,12
+239,Nino,Niederreiter, RW,CAR,67,11,18,29,42
+240,Derek,Ryan, C ,CGY,68,10,19,29,10
+241,Cam,Fowler, D ,ANA,59,9,20,29,20
+242,Ryan,Dzingel, LW,CAR,64,8,21,29,30
+243,Joel,Eriksson Ek, C ,MIN,62,8,21,29,22
+244,Erik,Gustafsson, D ,CGY/CHI,66,6,23,29,27
+245,Viktor,Arvidsson, RW,NSH,57,15,13,28,26
+246,Derek,Stepan, C ,ARI,70,10,18,28,16
+247,Colton,Parayko, D ,STL,64,10,18,28,16
+248,Alexander,Kerfoot, C ,TOR,65,9,19,28,32
+249,Jordan,Greenway, LW,MIN,67,8,20,28,54
+250,Devon,Toews, D ,NYI,68,6,22,28,16
+251,Jonas,Brodin, D ,MIN,69,2,26,28,24
+252,Noel,Acciari, C ,FLA,66,20,7,27,21
+253,Jeff,Carter, C ,LA,60,17,10,27,36
+254,Scott,Laughton, C ,PHI,49,13,14,27,26
+255,Valeri,Nichushkin, RW,COL,65,13,14,27,14
+256,Artturi,Lehkonen, LW,MTL,70,13,14,27,24
+257,Jordan,Staal, C ,CAR,68,8,19,27,40
+258,Jacob,Trouba, D ,NYR,70,7,20,27,61
+259,Dmitry,Orlov, D ,WSH,69,4,23,27,36
+260,Duncan,Keith, D ,CHI,61,3,24,27,18
+261,Morgan,Rielly, D ,TOR,47,3,24,27,24
+262,Cam,Atkinson, RW,CBJ,44,12,14,26,6
+263,Jakob,Chychrun, D ,ARI,63,12,14,26,38
+264,Chandler,Stephenson, C ,WSH/VGS,65,11,15,26,16
+265,Andreas,Athanasiou, C ,DET/EDM,55,11,15,26,30
+266,Ivan,Barbashev, LW,STL,69,11,15,26,23
+267,Kailer,Yamamoto, RW,EDM,27,11,15,26,12
+268,Ilya,Kovalchuk, LW,LA/MTL/WSH,46,10,16,26,18
+269,Andrew,Copp, C ,WPG,63,10,16,26,10
+270,Danton,Heinen, C ,BOS/ANA,67,10,16,26,10
+271,Alex,Nylander, LW,CHI,65,10,16,26,10
+272,Ryan,Graves, D ,COL,69,9,17,26,45
+273,Barclay,Goodrow, LW,SJ/TB,70,8,18,26,97
+274,John,Marino, D ,PIT,56,6,20,26,20
+275,Ian,Cole, D ,COL,65,4,22,26,36
+276,Lawson,Crouse, LW,ARI,66,15,10,25,33
+277,Derek,Grant, C ,PHI/ANA,56,15,10,25,30
+278,Matt,Calvert, LW,COL,50,12,13,25,39
+279,Lucas,Wallmark, C ,CAR/FLA,67,12,13,25,18
+280,Marcus,Foligno, LW,MIN,59,11,14,25,30
+281,Brandon,Tanev, LW,PIT,68,11,14,25,16
+282,Nick,Cousins, C ,MTL/VGS,65,10,15,25,35
+283,Jason,Spezza, C ,TOR,58,9,16,25,18
+284,Travis,Zajac, C ,NJ,69,9,16,25,28
+285,Wayne,Simmonds, RW,BUF/NJ,68,8,17,25,66
+286,Carl,Hagelin, LW,WSH,58,8,17,25,16
+287,Travis,Sanheim, D ,PHI,69,8,17,25,32
+288,Erik,Haula, LW,CAR/FLA,48,12,12,24,22
+289,Boone,Jenner, C ,CBJ,70,11,13,24,36
+290,Alex,Chiasson, RW,EDM,65,11,13,24,42
+291,Alex,Galchenyuk, C ,PIT/MIN,59,8,16,24,16
+292,Brady,Skjei, D ,CAR/NYR,67,8,16,24,45
+293,Ondrej,Kase, RW,BOS/ANA,55,7,17,24,14
+294,Matt,Dumba, D ,MIN,69,6,18,24,41
+295,Sean,Walker, D ,LA,70,5,19,24,26
+296,Jake,Gardiner, D ,CAR,68,4,20,24,30
+297,Filip,Chytil, C ,NYR,60,14,9,23,10
+298,Jeff,Skinner, LW,BUF,59,14,9,23,18
+299,Ryan,Donato, C ,MIN,62,14,9,23,12
+300,Oskar,Sundqvist, C ,STL,57,12,11,23,28
+301,Miles,Wood, LW,NJ,68,11,12,23,57
+302,Kaapo,Kakko, RW,NYR,66,10,13,23,14
+303,Conor,Sheary, LW,BUF/PIT,63,10,13,23,10
+304,Vince,Dunn, D ,STL,71,9,14,23,27
+305,Patrick,Maroon, LW,TB,64,9,14,23,71
+306,Tyson,Jost, C ,COL,67,8,15,23,22
+307,Ilya,Mikheyev, RW,TOR,39,8,15,23,4
+308,Kirby,Dach, C ,CHI,64,8,15,23,24
+309,Colin,White, C ,OTT,61,7,16,23,39
+310,Sonny,Milano, LW,ANA/CBJ,55,7,16,23,26
+311,Blake,Lizotte, C ,LA,65,6,17,23,20
+312,Jake,Muzzin, D ,TOR,53,6,17,23,40
+313,Sean,Kuraly, C ,BOS,69,6,17,23,34
+314,Sami,Vatanen, D ,CAR/NJ,47,5,18,23,22
+315,Esa,Lindell, D ,DAL,69,3,20,23,12
+316,Hampus,Lindholm, D ,ANA,56,2,21,23,34
+317,Patrick,Marleau, C ,PIT/SJ,66,11,11,22,14
+318,Richard,Panik, RW,WSH,59,9,13,22,36
+319,Teddy,Blueger, C ,PIT,69,9,13,22,25
+320,Pierre-Edouard,Bellemare, RW,COL,69,9,13,22,17
+321,Dominik,Simon, C ,PIT,64,7,15,22,12
+322,Sam,Steel, C ,ANA,65,6,16,22,20
+323,Alexander,Wennberg, C ,CBJ,57,5,17,22,16
+324,Vinnie,Hinostroza, C ,ARI,68,5,17,22,14
+325,Noah,Hanifin, D ,CGY,70,5,17,22,12
+326,Rasmus,Andersson, D ,CGY,70,5,17,22,57
+327,Marcus,Pettersson, D ,PIT,69,2,20,22,35
+328,Josh,Archibald, RW,EDM,62,12,9,21,12
+329,Ben,Chiarot, D ,MTL,69,9,12,21,61
+330,Jason,Dickinson, C ,DAL,65,9,12,21,6
+331,Nick,Ritchie, LW,BOS/ANA,48,9,12,21,97
+332,Joel,Farabee, LW,PHI,52,8,13,21,39
+333,Matt,Nieto, LW,COL,70,8,13,21,6
+334,Andreas,Johnsson, LW,TOR,43,8,13,21,14
+335,Jack,Hughes, C ,NJ,61,7,14,21,10
+336,Valtteri,Filppula, C ,DET,70,6,15,21,24
+337,Tyler,Myers, D ,VAN,68,6,15,21,49
+338,Mattias,Janmark, C ,DAL,62,6,15,21,12
+339,Ethan,Bear, D ,EDM,71,5,16,21,33
+340,Corey,Perry, RW,DAL,57,5,16,21,70
+341,Mikko,Koivu, C ,MIN,55,4,17,21,28
+342,Will,Butcher, D ,NJ,56,4,17,21,6
+343,Matt,Grzelcyk, D ,BOS,68,4,17,21,34
+344,Nick,Leddy, D ,NYI,60,3,18,21,14
+345,Artem,Anisimov, C ,OTT,49,15,5,20,8
+346,Radek,Faksa, C ,DAL,66,11,9,20,42
+347,Emil,Bemstrom, C ,CBJ,56,10,10,20,8
+348,Ryan,Hartman, RW,MIN,69,9,11,20,69
+349,Nick,Paul, LW,OTT,56,9,11,20,24
+350,Jimmy,Vesey, LW,BUF,64,9,11,20,15
+351,Milan,Lucic, LW,CGY,68,8,12,20,54
+352,Tyler,Pitlick, RW,PHI,63,8,12,20,12
+353,Michael,Matheson, D ,FLA,59,8,12,20,14
+354,Michael,Raffl, LW,PHI,58,8,12,20,14
+355,Joel,Edmundson, D ,CAR,68,7,13,20,72
+356,Chris,Tanev, D ,VAN,69,2,18,20,41
+357,Zemgus,Girgensons, C ,BUF,69,12,7,19,10
+358,Brett,Howden, C ,NYR,70,9,10,19,28
+359,Kyle,Okposo, RW,BUF,52,9,10,19,28
+360,Anders,Bjork, LW,BOS,58,9,10,19,10
+361,Brad,Hunt, D ,MIN,59,8,11,19,6
+362,Carter,Rowney, RW,ANA,71,8,11,19,14
+363,Josh,Leivo, LW,VAN,36,7,12,19,4
+364,William,Carrier, LW,VGS,71,7,12,19,39
+365,Anton,Stralman, D ,FLA,69,5,14,19,14
+366,Connor,Murphy, D ,CHI,58,5,14,19,27
+367,Brandon,Carlo, D ,BOS,67,4,15,19,33
+368,T.J.,Brodie, D ,CGY,64,4,15,19,36
+369,Justin,Braun, D ,PHI,62,3,16,19,18
+370,Oskar,Lindblom, LW,PHI,30,11,7,18,4
+371,Mark,Pysyk, D ,FLA,58,9,9,18,20
+372,P.K.,Subban, D ,NJ,68,7,11,18,79
+373,Mark,Borowiecki, D ,OTT,53,7,11,18,58
+374,Mackenzie,Weegar, D ,FLA,45,7,11,18,33
+375,Cedric,Paquette, C ,TB,61,7,11,18,42
+376,Marcus,Sorensen, RW,SJ,66,7,11,18,26
+377,Johan,Larsson, LW,BUF,62,6,12,18,26
+378,Brendan,Lemieux, LW,NYR,59,6,12,18,111
+379,Brandon,Montour, D ,BUF,54,5,13,18,28
+380,Vladislav,Gavrikov, D ,CBJ,69,5,13,18,18
+381,Brett,Pesce, D ,CAR,61,4,14,18,27
+382,Matt,Roy, LW,LA,70,4,14,18,10
+383,Michal,Kempny, D ,WSH,58,3,15,18,22
+384,Justin,Holl, D ,TOR,68,2,16,18,43
+385,Brandon,Sutter, C ,VAN,44,8,9,17,25
+386,Alex,Tuch, RW,VGS,42,8,9,17,8
+387,Alex,Steen, LW,STL,55,7,10,17,12
+388,Kyle,Clifford, LW,LA/TOR,69,7,10,17,68
+389,Brock,McGinn, LW,CAR,68,7,10,17,17
+390,Troy,Stecher, D ,VAN,69,5,12,17,32
+391,Olli,Maatta, D ,CHI,65,4,13,17,20
+392,Madison,Bowey, D ,DET,53,3,14,17,34
+393,Darren,Helm, C ,DET,68,9,7,16,37
+394,Garnet,Hathaway, RW,WSH,66,9,7,16,79
+395,Blake,Comeau, LW,DAL,55,8,8,16,36
+396,David,Kampf, C ,CHI,70,8,8,16,8
+397,Colton,Sceviour, C ,FLA,69,6,10,16,6
+398,Michael,Amadio, C ,LA,68,6,10,16,10
+399,Dillon,Dube, C ,CGY,45,6,10,16,6
+400,Justin,Faulk, D ,STL,69,5,11,16,32
+401,Tucker,Poolman, D ,WPG,57,4,12,16,24
+402,Ben,Hutton, D ,LA,65,4,12,16,14
+403,Philippe,Myers, D ,PHI,50,4,12,16,30
+404,Erik,Johnson, D ,COL,59,3,13,16,20
+405,Alec,Martinez, D ,LA/VGS,51,3,13,16,23
+406,Mike,Reilly, D ,MTL/OTT,44,1,15,16,24
+407,Colton,Sissons, C ,NSH,57,9,6,15,20
+408,Drake,Caggiula, C ,CHI,40,9,6,15,32
+409,Filip,Zadina, RW,DET,28,8,7,15,2
+410,Ryan,Reaves, RW,VGS,71,8,7,15,47
+411,Jordan,Weal, C ,MTL,49,8,7,15,14
+412,Riley,Sheahan, C ,EDM,66,8,7,15,6
+413,Tomas,Nosek, C ,VGS,67,8,7,15,20
+414,Pierre,Engvall, LW,TOR,48,8,7,15,6
+415,Mathieu,Perreault, C ,WPG,49,7,8,15,10
+416,Nic,Dowd, C ,WSH,56,7,8,15,28
+417,Jonathan,Drouin, C ,MTL,27,7,8,15,14
+418,Nicolas,Aube-Kubel, RW,PHI,36,7,8,15,19
+419,Brian,Boyle, C ,FLA,39,6,9,15,17
+420,Marc-Edouard,Vlasic, D ,SJ,70,5,10,15,10
+421,Cody,Eakin, C ,WPG/VGS,49,5,10,15,16
+422,Troy,Terry, RW,ANA,47,4,11,15,6
+423,Henri,Jokiharju, D ,BUF,69,4,11,15,32
+424,Nate,Thompson, C ,MTL/PHI,70,4,11,15,30
+425,Ryan,Carpenter, C ,CHI,69,3,12,15,28
+426,Michael,Del Zotto, D ,ANA,49,2,13,15,14
+427,Radko,Gudas, D ,WSH,63,2,13,15,40
+428,Casey,Cizikas, C ,NYI,48,10,4,14,41
+429,Carson,Soucy, D ,MIN,55,7,7,14,18
+430,Michael,Frolik, RW,BUF/CGY,57,6,8,14,28
+431,Nick,Holden, D ,VGS,61,6,8,14,13
+432,Austin,Watson, LW,NSH,53,6,8,14,65
+433,Zdeno,Chara, D ,BOS,68,5,9,14,60
+434,Riley,Nash, C ,CBJ,64,5,9,14,10
+435,Leo,Komarov, C ,NYI,48,4,10,14,10
+436,Nikolai,Prokhorkin, LW,LA,43,4,10,14,6
+437,Haydn,Fleury, D ,CAR,45,4,10,14,8
+438,Andrew,Cogliano, C ,DAL,68,3,11,14,30
+439,Andy,Greene, D ,NJ/NYI,63,2,12,14,16
+440,Brenden,Dillon, D ,SJ/WSH,69,1,13,14,104
+441,Ryan,Lindgren, D ,NYR,60,1,13,14,47
+442,Carter,Verhaeghe, C ,TB,52,9,4,13,8
+443,Nicolas,Deslauriers, LW,ANA,59,7,6,13,92
+444,Antoine,Roussel, LW,VAN,41,7,6,13,43
+445,Zach,Aston-Reese, C ,PIT,57,6,7,13,28
+446,Alexandre,Texier, C ,CBJ,36,6,7,13,10
+447,Loui,Eriksson, LW,VAN,49,6,7,13,12
+448,Sam,Gagner, C ,DET/EDM,42,6,7,13,12
+449,Sammy,Blais, LW,STL,40,6,7,13,20
+450,Sam,Lafferty, C ,PIT,50,6,7,13,23
+451,Scott,Mayfield, D ,NYI,67,5,8,13,53
+452,Victor,Rask, C ,MIN,43,5,8,13,6
+453,Adam,Boqvist, D ,CHI,41,4,9,13,6
+454,Marco,Scandella, D ,BUF/MTL/STL,62,4,9,13,20
+455,Nikita,Zadorov, D ,COL,64,4,9,13,65
+456,Jake,McCabe, D ,BUF,66,3,10,13,41
+457,Robert,Hagg, D ,PHI,49,3,10,13,30
+458,Jordan,Oesterle, D ,ARI,58,3,10,13,14
+459,Jordan,Martinook, LW,CAR,45,2,11,13,22
+460,Sam,Bennett, C ,CGY,52,8,4,12,36
+461,Max,Jones, LW,ANA,59,8,4,12,36
+462,Frederik,Gauthier, C ,TOR,61,7,5,12,10
+463,Eric,Robinson, LW,CBJ,50,7,5,12,12
+464,Trevor,Lewis, C ,LA,56,6,6,12,16
+465,Melker,Karlsson, RW,SJ,61,6,6,12,20
+466,Shayne,Gostisbehere, D ,PHI,42,5,7,12,20
+467,Devin,Shore, C ,ANA/CBJ,45,5,7,12,8
+468,Erik,Cernak, D ,TB,67,5,7,12,59
+469,Cody,Glass, C ,VGS,39,5,7,12,6
+470,Denis,Malgin, C ,TOR/FLA,44,4,8,12,14
+471,Travis,Hamonic, D ,CGY,50,3,9,12,27
+472,Justin,Schultz, D ,PIT,46,3,9,12,6
+473,Ron,Hainsey, D ,OTT,64,1,11,12,12
+474,Ryan,McDonagh, D ,TB,50,1,11,12,19
+475,Nikita,Zaitsev, D ,OTT,58,1,11,12,22
+476,Justin,Williams, RW,CAR,20,8,3,11,6
+477,Michael,Grabner, RW,ARI,46,8,3,11,6
+478,Austin,Wagner, LW,LA,65,6,5,11,39
+479,Brad,Richardson, C ,ARI,59,6,5,11,20
+480,Dylan,Gambrell, C ,SJ,50,5,6,11,17
+481,Dante,Fabbro, D ,NSH,64,5,6,11,38
+482,Max,Comtois, LW,ANA,29,5,6,11,24
+483,Travis,Dermott, D ,TOR,56,4,7,11,37
+484,Dominic,Toninato, C ,FLA,46,4,7,11,37
+485,Victor,Mete, D ,MTL,51,4,7,11,20
+486,Zack,Smith, C ,CHI,50,4,7,11,29
+487,Mike,Green, D ,DET/EDM,50,3,8,11,32
+488,Jack,Johnson, D ,PIT,67,3,8,11,26
+489,Brendan,Leipsic, LW,WSH,61,3,8,11,13
+490,Jacob,Larsson, D ,ANA,60,2,9,11,12
+491,Mario,Ferraro, D ,SJ,61,2,9,11,30
+492,Johnny,Boychuk, D ,NYI,64,2,9,11,14
+493,Marc,Staal, D ,NYR,52,2,9,11,16
+494,Nicolas,Hague, D ,VGS,38,1,10,11,32
+495,Colin,Miller, D ,BUF,51,1,10,11,22
+496,Jason,Demers, D ,ARI,50,0,11,11,25
+497,David,Savard, D ,CBJ,68,0,11,11,35
+498,Mackenzie,MacEachern, LW,STL,51,7,3,10,33
+499,Chris,Wagner, RW,BOS,67,6,4,10,47
+500,Jujhar,Khaira, LW,EDM,64,6,4,10,38
+501,Trevor,Moore, LW,LA/TOR,42,6,4,10,6
+502,Evan,Rodrigues, RW,BUF/PIT,45,6,4,10,14
+503,Kevin,Stenlund, C ,CBJ,32,6,4,10,8
+504,Curtis,Lazar, RW,BUF,38,5,5,10,9
+505,Nicolas,Roy, C ,VGS,28,5,5,10,8
+506,Gaetan,Haas, C ,EDM,58,5,5,10,6
+507,Nathan,Gerbe, LW,CBJ,30,4,6,10,22
+508,Paul,Byron, C ,MTL,29,4,6,10,4
+509,Adam,Lowry, C ,WPG,49,4,6,10,23
+510,Tobias,Rieder, C ,CGY,55,4,6,10,6
+511,Michael,Dal Colle, LW,NYI,53,4,6,10,12
+512,Vladimir,Tarasenko, RW,STL,10,3,7,10,0
+513,Jamie,Oleksiak, D ,DAL,69,3,7,10,41
+514,Andrew,Shaw, C ,CHI,26,3,7,10,33
+515,Travis,Boyd, C ,WSH,24,3,7,10,2
+516,Jayce,Hawryluk, C ,OTT/FLA,26,3,7,10,16
+517,Colin,Blackwell, C ,NSH,27,3,7,10,10
+518,Drake,Batherson, RW,OTT,23,3,7,10,13
+519,Luca,Sbisa, D ,WPG,44,2,8,10,37
+520,Dmitry,Kulikov, D ,WPG,51,2,8,10,32
+521,Slater,Koekkoek, D ,CHI,42,1,9,10,42
+522,Dylan,DeMelo, D ,OTT/WPG,59,0,10,10,37
+523,Stefan,Noesen, RW,PIT/SJ,40,7,2,9,32
+524,Christian,Fischer, RW,ARI,56,6,3,9,16
+525,Luke,Glendening, C ,DET,60,6,3,9,14
+526,Greg,McKegg, C ,NYR,53,5,4,9,17
+527,Dmytro,Timashov, LW,DET/TOR,44,4,5,9,16
+528,Caleb,Jones, D ,EDM,43,4,5,9,10
+529,Jordan,Kyrou, C ,STL,28,4,5,9,8
+530,Casey,Mittelstadt, C ,BUF,31,4,5,9,2
+531,Frans,Nielsen, C ,DET,60,4,5,9,8
+532,Erik,Gudbranson, D ,PIT/ANA,51,4,5,9,95
+533,Kevin,Rooney, C ,NJ,49,4,5,9,20
+534,Markus,Nutivaara, D ,CBJ,37,3,6,9,4
+535,Joakim,Nygard, LW,EDM,33,3,6,9,8
+536,Jonas,Siegenthaler, D ,WSH,64,2,7,9,43
+537,Radim,Simek, D ,SJ,48,2,7,9,14
+538,Brayden,McNabb, D ,VGS,71,2,7,9,40
+539,Taylor,Fedun, D ,DAL,27,2,7,9,8
+540,Ryan,Murray, D ,CBJ,27,2,7,9,4
+541,Jacob,De La Rose, LW,DET/STL,50,2,7,9,10
+542,Jay,Bouwmeester, D ,STL,56,1,8,9,20
+543,Patrik,Nemeth, D ,DET,64,1,8,9,28
+544,Josh,Manson, D ,ANA,50,1,8,9,37
+545,Adam,Pelech, D ,NYI,38,1,8,9,20
+546,Kris,Russell, D ,EDM,55,0,9,9,14
+547,Martin,Frk, RW,LA,17,6,2,8,4
+548,Jesperi,Kotkaniemi, C ,MTL,36,6,2,8,23
+549,Bobby,Ryan, RW,OTT,24,5,3,8,22
+550,Matt,Martin, LW,NYI,55,5,3,8,40
+551,Mason,Appleton, C ,WPG,46,5,3,8,20
+552,Tyler,Motte, C ,VAN,34,4,4,8,10
+553,Brendan,Guhle, D ,ANA,30,4,4,8,10
+554,Brendan,Smith, D ,NYR,62,3,5,8,71
+555,Kurtis,MacDermid, D ,LA,45,3,5,8,47
+556,Josh,Brown, D ,FLA,56,3,5,8,39
+557,Andrej,Sekera, D ,DAL,57,2,6,8,14
+558,Jay,Beagle, C ,VAN,55,2,6,8,38
+559,Dennis,Cholowski, D ,DET,36,2,6,8,6
+560,Brian,Dumoulin, D ,PIT,28,1,7,8,10
+561,Nathan,Beaulieu, D ,WPG,38,1,7,8,29
+562,Scott,Harrington, D ,CBJ,39,1,7,8,16
+563,Cody,Ceci, D ,TOR,56,1,7,8,20
+564,Trevor,van Riemsdyk, D ,CAR,49,1,7,8,10
+565,Matthew,Benning, D ,EDM,43,1,7,8,15
+566,Vladislav,Kamenev, LW,COL,38,1,7,8,8
+567,Logan,Brown, C ,OTT,23,1,7,8,4
+568,Rasmus,Sandin, D ,TOR,28,1,7,8,10
+569,Dan,Hamhuis, D ,NSH,60,0,8,8,35
+570,Nick,Jensen, D ,WSH,68,0,8,8,13
+571,Anthony,Bitetto, D ,WPG,51,0,8,8,32
+572,Mark,Jankowski, C ,CGY,56,5,2,7,14
+573,Mathieu,Joseph, RW,TB,37,4,3,7,16
+574,Joakim,Nordstrom, LW,BOS,48,4,3,7,17
+575,Gabriel,Vilardi, C ,LA,10,3,4,7,4
+576,Joel,Kellman, C ,SJ,31,3,4,7,4
+577,Cal,Clutterbuck, RW,NYI,37,3,4,7,22
+578,Jansen,Harkins, C ,WPG,29,2,5,7,5
+579,Oliver,Kylington, D ,CGY,48,2,5,7,16
+580,Morgan,Frost, C ,PHI,20,2,5,7,4
+581,Taro,Hirose, LW,DET,26,2,5,7,6
+582,Carl,Gunnarsson, D ,STL,36,2,5,7,16
+583,Michael,Stone, D ,CGY,33,2,5,7,16
+584,Mirco,Mueller, D ,NJ,50,2,5,7,23
+585,Jon,Merrill, D ,VGS,49,2,5,7,32
+586,Jan,Rutta, D ,TB,33,1,6,7,14
+587,Antti,Suomela, C ,SJ,20,1,6,7,4
+588,Noah,Dobson, D ,NYI,34,1,6,7,8
+589,Juuso,Riikola, D ,PIT,36,1,6,7,6
+590,Zach,Bogosian, D ,BUF/TB,27,1,6,7,22
+591,Jordie,Benn, D ,VAN,44,1,6,7,17
+592,Trevor,Daley, D ,DET,43,0,7,7,20
+593,Brett,Kulak, D ,MTL,56,0,7,7,12
+594,Tim,Schaller, LW,LA/VAN,53,5,1,6,14
+595,Zack,MacEwen, C ,VAN,17,5,1,6,20
+596,Joey,Anderson, RW,NJ,18,4,2,6,2
+597,Tom,Kuhnhackl, RW,NYI,28,3,3,6,2
+598,Nick,Shore, C ,TOR/WPG,63,3,3,6,20
+599,Justin,Dowling, C ,DAL,29,3,3,6,8
+600,Mitchell,Stephens, C ,TB,38,3,3,6,10
+601,Filip,Chlapik, C ,OTT,31,3,3,6,10
+602,Par,Lindholm, C ,BOS,40,3,3,6,4
+603,Robert,Bortuzzo, D ,STL,42,2,4,6,21
+604,Gabriel,Bourque, LW,WPG,52,2,4,6,7
+605,Brett,Ritchie, RW,BOS,27,2,4,6,21
+606,Chad,Ruhwedel, D ,PIT,41,2,4,6,12
+607,Scott,Sabourin, RW,OTT,35,2,4,6,33
+608,Matthew,Highmore, C ,CHI,36,2,4,6,6
+609,Yakov,Trenin, C ,NSH,21,2,4,6,9
+610,Deryk,Engelland, D ,VGS,49,1,5,6,37
+611,David,Backes, RW,BOS/ANA,22,1,5,6,22
+612,Calvin,de Haan, D ,CHI,29,1,5,6,10
+613,Adam,Larsson, D ,EDM,49,1,5,6,35
+614,Connor,Carrick, D ,NJ,29,1,5,6,17
+615,Karson,Kuhlman, RW,BOS,25,1,5,6,13
+616,Oscar,Fantenberg, D ,VAN,36,1,5,6,6
+617,Noah,Gregor, C ,SJ,28,3,2,5,8
+618,Zac,Rinaldo, C ,CGY,19,3,2,5,34
+619,Logan,Shaw, RW,WPG,35,3,2,5,0
+620,Jakob,Lilja, LW,CBJ,37,2,3,5,2
+621,Bryan,Little, C ,WPG,7,2,3,5,2
+622,Stephen,Johns, D ,DAL,17,2,3,5,10
+623,Adam,Erne, LW,DET,56,2,3,5,28
+624,Joseph,Blandisi, C ,PIT,21,2,3,5,10
+625,Matt,Luff, RW,LA,18,1,4,5,2
+626,Ville,Heinola, D ,WPG,8,1,4,5,4
+627,Niklas,Hjalmarsson, D ,ARI,27,1,4,5,14
+628,Dale,Weise, RW,MTL,23,1,4,5,16
+629,Jarred,Tinordi, D ,NSH,28,1,4,5,34
+630,Micheal,Ferland, LW,VAN,14,1,4,5,7
+631,Tim,Heed, D ,SJ,38,1,4,5,2
+632,Joakim,Ryan, D ,LA,35,1,4,5,10
+633,Dean,Kukan, D ,CBJ,33,1,4,5,12
+634,Sami,Niku, D ,WPG,17,0,5,5,12
+635,Riley,Stillman, D ,FLA,34,0,5,5,14
+636,Libor,Hajek, D ,NYR,28,0,5,5,12
+637,Patrick,Russell, RW,EDM,45,0,5,5,12
+638,Jesper,Boqvist, C ,NJ,35,4,0,4,8
+639,Brent,Seabrook, D ,CHI,32,3,1,4,8
+640,Markus,Granlund, C ,EDM,34,3,1,4,14
+641,John,Hayden, C ,NJ,43,3,1,4,77
+642,Ross,Johnston, LW,NYI,32,3,1,4,78
+643,Morgan,Geekie, C ,CAR,2,3,1,4,2
+644,Mikkel,Boedker, LW,OTT,20,2,2,4,0
+645,Christoffer,Ehn, C ,DET,54,2,2,4,2
+646,Aleksi,Saarela, C ,FLA,9,2,2,4,0
+647,Braydon,Coburn, D ,TB,40,1,3,4,16
+648,Cameron,Gaunce, D ,TB,3,1,3,4,4
+649,Martin,Marincin, D ,TOR,26,1,3,4,14
+650,Korbinian,Holzer, D ,ANA/NSH,49,1,3,4,37
+651,Valentin,Zykov, RW,VGS,15,1,3,4,6
+652,Dakota,Mermis, D ,NJ,10,1,3,4,4
+653,Josh,Anderson, RW,CBJ,26,1,3,4,17
+654,Phil,Di Giuseppe, LW,NYR,20,1,3,4,2
+655,Brendan,Perlini, LW,CHI/DET,40,1,3,4,10
+656,Josh,Mahura, D ,ANA,11,1,3,4,2
+657,Barrett,Hayton, C ,ARI,20,1,3,4,14
+658,Roman,Polak, D ,DAL,41,0,4,4,24
+659,Colin,Wilson, C ,COL,9,0,4,4,0
+660,Danny,DeKeyser, D ,DET,8,0,4,4,4
+661,Dryden,Hunt, LW,FLA,21,0,4,4,24
+662,Erik,Brannstrom, D ,OTT,31,0,4,4,16
+663,Carl,Grundstrom, RW,LA,13,0,4,4,8
+664,Ilya,Lyubushkin, D ,ARI,51,0,4,4,18
+665,Isac,Lundestrom, C ,ANA,15,0,4,4,0
+666,Alex,True, C ,SJ,12,0,4,4,2
+667,Kieffer,Bellows, LW,NYI,8,2,1,3,2
+668,Givani,Smith, RW,DET,21,2,1,3,9
+669,Martin,Kaut, RW,COL,9,2,1,3,2
+670,Jake,Evans, C ,MTL,13,2,1,3,0
+671,John,Moore, D ,BOS,24,2,1,3,11
+672,Stefan,Matteau, C ,CBJ,9,2,1,3,5
+673,Austin,Czarnik, C ,CGY,8,2,1,3,0
+674,Dennis,Gilbert, D ,CHI,21,1,2,3,38
+675,Mikhail,Vorobyev, C ,PHI,20,1,2,3,6
+676,Rudolfs,Balcers, LW,OTT,15,1,2,3,0
+677,Rasmus,Asplund, C ,BUF,29,1,2,3,6
+678,Andrew,Peeke, D ,CBJ,22,1,2,3,4
+679,Vladimir,Sobotka, C ,BUF,16,1,2,3,4
+680,Yannick,Weber, D ,NSH,41,1,2,3,14
+681,Luke,Schenn, D ,TB,25,1,2,3,23
+682,Andrew,Agozzino, LW,PIT/ANA,22,1,2,3,4
+683,Luke,Witkowski, D ,TB,12,1,2,3,13
+684,Christian,Djoos, D ,WSH/ANA,11,1,2,3,0
+685,Dylan,Sikura, C ,CHI,9,1,2,3,0
+686,Christian,Jaros, D ,OTT,13,0,3,3,6
+687,Julien,Gauthier, RW,CAR/NYR,17,0,3,3,8
+688,Calle,Rosen, D ,COL/TOR,12,0,3,3,4
+689,Adam,Brooks, C ,TOR,7,0,3,3,0
+690,Justin,Abdelkader, LW,DET,49,0,3,3,25
+691,Greg,Pateryn, D ,MIN,20,0,3,3,6
+692,Alex,Biega, D ,DET,49,0,3,3,24
+693,Matt,Irwin, D ,ANA/NSH,36,0,3,3,15
+694,Matt,Tennyson, D ,NJ,20,0,3,3,6
+695,Nic,Petan, C ,TOR,16,0,3,3,4
+696,Andreas,Englund, D ,OTT,24,0,3,3,12
+697,Tyler,Graovac, C ,VAN,8,2,0,2,2
+698,Connor,Clifton, D ,BOS,31,2,0,2,12
+699,Logan,O'Connor, RW,COL,16,2,0,2,2
+700,Gerald,Mayhew, RW,MIN,13,2,0,2,2
+701,Cody,Goloubef, D ,DET/OTT,26,1,1,2,8
+702,Sam,Carrick, C ,ANA,9,1,1,2,0
+703,Nick,Bjugstad, C ,PIT,13,1,1,2,8
+704,Fredrik,Claesson, D ,NJ,5,1,1,2,0
+705,Scott,Wilson, LW,BUF,6,1,1,2,2
+706,Christian,Folin, D ,MTL,16,1,1,2,13
+707,Charles,Hudon, LW,MTL,15,1,1,2,0
+708,Nathan,Walker, LW,STL,5,1,1,2,4
+709,Nick,Merkley, RW,NJ,4,1,1,2,2
+710,Daniel,Sprong, RW,ANA,8,1,1,2,0
+711,Jeremy,Lauzon, D ,BOS,19,1,1,2,29
+712,Cole,Bardreau, C ,NYI,10,1,1,2,6
+713,Connor,Bunnaman, C ,PHI,21,1,1,2,2
+714,Ryan,Poehling, C ,MTL,27,1,1,2,4
+715,Nick,Caamano, RW,DAL,12,1,1,2,4
+716,Adam,Johnson, C ,PIT,7,1,1,2,2
+717,Steven,Kampfer, D ,BOS,10,0,2,2,2
+718,Mark,Barberio, D ,COL,21,0,2,2,16
+719,Brandon,Pirri, C ,VGS,16,0,2,2,8
+720,Sven,Baertschi, LW,VAN,6,0,2,2,4
+721,Tomas,Jurco, RW,EDM,12,0,2,2,4
+722,Xavier,Ouellet, D ,MTL,12,0,2,2,4
+723,Matthew,Peca, C ,MTL/OTT,14,0,2,2,0
+724,Joel,Hanley, D ,DAL,8,0,2,2,6
+725,Jacob,Middleton, D ,SJ,10,0,2,2,9
+726,Joe,Hicketts, D ,DET,6,0,2,2,2
+727,Zach,Senyshyn, RW,BOS,4,0,2,2,0
+728,Michael,McLeod, C ,NJ,12,0,2,2,4
+729,Nico,Sturm, C ,MIN,6,0,2,2,0
+730,Joel,Persson, D ,EDM,13,0,2,2,2
+731,Kyle,Capobianco, D ,ARI,9,1,0,1,2
+732,Lukas,Vejdemo, C ,MTL,7,1,0,1,0
+733,Vitaly,Abramov, RW,OTT,2,1,0,1,2
+734,Carsen,Twarynski, LW,PHI,15,1,0,1,4
+735,Klim,Kostin, LW,STL,4,1,0,1,0
+736,David,Gustafsson, C ,WPG,22,1,0,1,0
+737,Egor,Korshkov, RW,TOR,1,1,0,1,0
+738,Cale,Fleury, D ,MTL,41,1,0,1,6
+739,David,Kase, RW,PHI,6,1,0,1,0
+740,Joel,Kiviranta, LW,DAL,11,1,0,1,4
+741,Mikey,Anderson, D ,LA,6,1,0,1,0
+742,Andrew,Ladd, LW,NYI,4,1,0,1,4
+743,Troy,Brouwer, RW,STL,13,1,0,1,7
+744,Micheal,Haley, C ,NYR,22,1,0,1,50
+745,Brandon,Manning, D ,EDM,9,1,0,1,17
+746,Patrick,Brown, C ,VGS,1,1,0,1,0
+747,Miikka,Salomaki, RW,NSH,5,1,0,1,4
+748,Alan,Quine, C ,CGY,9,1,0,1,4
+749,Jani,Hakanpaa, D ,ANA,5,1,0,1,2
+750,Daniel,Carr, LW,NSH,11,1,0,1,4
+751,Buddy,Robinson, RW,CGY,5,1,0,1,7
+752,Gemel,Smith, C ,TB,3,1,0,1,4
+753,Colby,Cave, C ,EDM,11,1,0,1,4
+754,Maxim,Letunov, C ,SJ,3,1,0,1,0
+755,Anthony,Angello, C ,PIT,8,1,0,1,4
+756,Joel,L'Esperance, RW,DAL,3,1,0,1,2
+757,Niko,Mikkola, D ,STL,5,0,1,1,0
+758,Anton,Lindholm, D ,COL,4,0,1,1,0
+759,J.C.,Beaudin, C ,OTT,22,0,1,1,7
+760,Jordan,Gross, D ,ARI,2,0,1,1,0
+761,Tyler,Benson, LW,EDM,7,0,1,1,0
+762,Tim,Gettinger, LW,NYR,2,0,1,1,0
+763,Gage,Quinney, LW,VGS,3,0,1,1,0
+764,Mathieu,Olivier, C ,NSH,8,0,1,1,4
+765,Lias,Andersson, C ,NYR,17,0,1,1,4
+766,Timothy,Liljegren, D ,TOR,11,0,1,1,2
+767,Gustav,Lindstrom, D ,DET,16,0,1,1,14
+768,Jason,Robertson, LW,DAL,3,0,1,1,0
+769,Eetu,Luostarinen, C ,CAR,8,0,1,1,0
+770,Alexander,Volkov, RW,TB,9,0,1,1,6
+771,Jack,Studnicka, C ,BOS,2,0,1,1,2
+772,Lucas,Carlsson, D ,CHI,6,0,1,1,0
+773,Mason,Marchment, LW,TOR,4,0,1,1,0
+774,Zach,Whitecloud, D ,VGS,16,0,1,1,4
+775,Liam,Foudy, C ,CBJ,2,0,1,1,0
+776,Martin,Fehervary, D ,WSH,6,0,1,1,6
+777,Kiefer,Sherwood, RW,ANA,10,0,1,1,6
+778,Jonathan,Davidsson, RW,OTT,6,0,1,1,0
+779,Lean,Bergmann, LW,SJ,12,0,1,1,4
+780,Chris,Stewart, RW,PHI,16,0,1,1,21
+781,Brian,Lashoff, D ,DET,9,0,1,1,6
+782,Aaron,Ness, D ,ARI,24,0,1,1,0
+783,Derek,Forbort, D ,CGY/LA,20,0,1,1,4
+784,Ben,Street, RW,NJ,3,0,1,1,0
+785,Andy,Andreoff, C ,PHI,14,0,1,1,2
+786,T.J.,Tynan, C ,COL,16,0,1,1,2
+787,Nick,Seeler, D ,CHI/MIN,12,0,1,1,15
+788,Cory,Conacher, LW,TB,4,0,1,1,4
+789,Brendan,Gaunce, C ,BOS,1,0,1,1,2
+790,Jonny,Brodzinski, C ,SJ,3,0,1,1,0
+791,Carl,Dahlstrom, D ,WPG,15,0,1,1,6
+792,Peter,Cehlarik, LW,BOS,3,0,1,1,2
+793,Paul,LaDue, D ,LA,2,0,1,1,0
+794,Pontus,Aberg, LW,TOR,5,0,1,1,0
+795,Ryan,MacInnis, C ,CBJ,10,0,1,1,0
+796,Clark,Bishop, C ,CAR,5,0,1,1,4
+797,Mark,Friedman, D ,PHI,6,0,1,1,2
